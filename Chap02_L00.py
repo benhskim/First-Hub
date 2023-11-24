@@ -72,4 +72,6 @@ print(type("7"))
 print(type(7//3))         
 print(type(7/3))          
 
+# 추가로 한 줄을 보탭니다. 
+
 
